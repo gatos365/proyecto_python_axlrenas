@@ -1,0 +1,22 @@
+{
+    "Salones:" : [
+        {
+            "Salon 1:": "Sputnik",
+            "Capacidad" : 33,
+            "ruta": "Nodejs",
+            "trainer correspondiente" : "juan"
+        },
+        {
+            "Salon 2:": "Apolo",
+            "Capacidad" : 33,
+            "ruta": "Java",
+            "trainer correspondiente" : "silvia"
+        },
+        {
+            "Salon3:": "Artemis",
+            "Capacidad" : 33,
+            "ruta": "Python",
+            "trainer correspondiente" : "carlos"
+        }
+    ]
+}
